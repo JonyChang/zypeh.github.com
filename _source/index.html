@@ -1,0 +1,22 @@
+---
+layout: default
+title: Home
+top: true
+permalink: /
+---
+
+<article>
+  <hgroup>
+    <h1>Hi, I'm Zypeh, <br>I love coffee especially Latte.</h1>
+    <br>
+    {% if site.availability == 'free' %}
+    <h2 class="status available"><a href="mailto:{{ site.email }}"><i>Ping me, currently free</i></a><h2>
+
+	{% else %}
+
+    <h2 class="status unavailable"><a href="mailto:{{ site.email }}" title="You're urgent? try to reach me."><i>Taking caffeine, working on a big project......</i></a><h2>
+
+	{% endif %}
+
+  </hgroup>
+</article>
