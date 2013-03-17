@@ -8,4 +8,4 @@ summary: 第一帖
 
 # Hello World!
 
-欢迎大
+欢迎大家～～～
