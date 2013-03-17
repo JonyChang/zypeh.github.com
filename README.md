@@ -1,8 +1,8 @@
-# Githubでjekyll使ってブログ
+# Github README
 
- [jekylog](http://zypeh.github.com/ 'Caffeine')
+ [Caffeine](http://zypeh.github.com/ 'Caffeine')
 
-## 目录树
+## TREE
 
 	.
 	├─ _includes // contain header and footer
