@@ -12,7 +12,7 @@
 	│  ├─ header.html // header
 	├─ _layouts // contain my blog's layout
 	│  ├─ default.html 
-	│  ├─ post.html // 投稿詳細ページ用
+	│  ├─ post.html //  My post
 	├─ _posts // 
 	│  ├─ $YEAR-$MONTH-$DATE-$TITLE.$FORMAT // markdown
 	├─ css // CSS
@@ -21,7 +21,7 @@
 	├─ fonts // Web font
 	│  ├─ chunkfive // Chunkfive 
 	│  ├─ droid // Droid 
-	├─ img // 画像
+	├─ img // image
 	│  ├─ favicon.ico
 	│  ├─ logo1.png
 	│  ├─ logo2.png
@@ -40,13 +40,13 @@
 	│  ├─ _normalize.scss
 	│  ├─ _webfont.scss
 	│  ├─ all.scss
-	├─ tasks // gruntのカスタムタスク用
+	├─ tasks // grunt usage
 	│  ├─ cssmin.js
 	│  ├─ sass.js
-	├─ 404.html // 404用HTML
+	├─ 404.html // 404HTML
 	├─ README.md // README.md
 	├─ Rakefile // Rakefile
-	├─ _config.yml // 基本設定
+	├─ _config.yml // YAML config
 	├─ about.html // About
 	├─ archive.html // 
 	├─ atom.xml // 
